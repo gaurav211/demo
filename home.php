@@ -9,9 +9,7 @@ get_header(); ?>
 
 	<!--slider part start from here-->
 	<section>
-		<div class="slider">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/banner.jpg" alt="Banner" class="img-responsive1">
-		</div>
+		Hey i am here
 	</section>
 	<!--slider end here-->
 	
